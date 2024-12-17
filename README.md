@@ -26,7 +26,7 @@ Flask: Backend server for API integration
 HTML, CSS, JavaScript: Frontend for user interaction
 
 
-Project Workflow
+Project Workflow:-
 
 1)-Data Collection and Cleaning:
 -The dataset includes property details such as location, size, and BHK.
