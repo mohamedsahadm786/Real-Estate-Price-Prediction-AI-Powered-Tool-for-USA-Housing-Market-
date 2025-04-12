@@ -1,8 +1,8 @@
-# Real-Estate-Price-Prediction-AI-Powered-Tool-for-Bangalore-Housing-Market-
+# Real Estate Price Prediction-AI Powered Tool for USA Housing Market-
 
 Overview
 
-This project is a Property Price Prediction Model designed to predict property prices in Bangalore based on key features like location, number of bedrooms, bathrooms, and square footage. The model is built using Machine Learning and provides an easy-to-use web interface for real estate companies or individuals looking to estimate property prices.
+This project is a Property Price Prediction Model designed to predict property prices in USA based on key features like location, number of bedrooms, bathrooms, and square footage. The model is built using Machine Learning and provides an easy-to-use web interface for real estate companies or individuals looking to estimate property prices.
 
 Features:-
 
