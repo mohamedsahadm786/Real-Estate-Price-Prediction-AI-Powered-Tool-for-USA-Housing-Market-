@@ -1,4 +1,4 @@
-# Real Estate Price Prediction-AI Powered Tool for USA Housing Market-
+# Real Estate Price Prediction-AI Powered Tool for USA Housing Market
 
 Overview
 
